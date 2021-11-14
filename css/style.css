@@ -1,0 +1,18 @@
+html {
+	scroll-behavior: smooth;
+}
+
+#sec1 {
+	height: 600px;
+	background-color: #f00;
+	color: #fff;
+}
+
+#sec2 {
+	height: 600px;
+	background-color: #0f0;
+	color: #fff;
+} /*fim das configurações da rolagem*/
+
+
+
